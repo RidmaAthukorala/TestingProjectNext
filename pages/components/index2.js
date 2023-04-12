@@ -12,6 +12,11 @@ export default class index2 extends Component {
             <div>index2</div>
             <div>index2</div>
             <div>index2</div>
+            <div>index3</div>
+            <div>index3</div>
+            <div>index3</div>
+            <div>index3</div>
+            <div>index3</div>
         </div>
       
     )
