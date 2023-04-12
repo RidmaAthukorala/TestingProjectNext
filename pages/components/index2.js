@@ -17,12 +17,7 @@ export default class index2 extends Component {
             <div>index3</div>
             <div>index3</div>
             <div>index3</div>
-<<<<<<< HEAD
-            <div>index3</div>
-=======
->>>>>>> dev3
         </div>
-      
     )
   }
 }
