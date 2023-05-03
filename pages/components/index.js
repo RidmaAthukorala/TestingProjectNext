@@ -5,7 +5,7 @@ export default class index extends Component {
     return (
       <div>
         index
-        <div>asdsa</div>
+        <div>asdsssssa</div>
       </div>
     );
   }
