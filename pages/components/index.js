@@ -16,7 +16,7 @@ export default class index extends Component {
 =======
       <div>
         index
-        <div>asdsa</div>
+        <div>asdsssssa</div>
       </div>
     );
 >>>>>>> parent of a901769 (new)
